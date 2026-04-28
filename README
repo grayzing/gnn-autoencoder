@@ -1,0 +1,5 @@
+# GNN Autoencoder
+A basic autoencoder using GCNConv
+
+## Setup
+Clone the repo, then install the requirements as shown in requirements.txt, CD to src, then run train.py
